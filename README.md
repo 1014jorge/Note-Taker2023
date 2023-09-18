@@ -48,11 +48,14 @@ Link: https://opensource.org/licenses/ISC
 ## Questions
 If you have any questions regarding this application here are my contact details:
 
-GitHub:  1014Jorge
+GitHub:  1014jorge
 
-GitHub Link: 1014jorge.github.com
+GitHub Link: github.com/1014jorge
 
 email: jorge.1014@gmail.com
+
+GitHub Link to Repo:  https://github.com/1014jorge/Note-Taker2023
+
 
 
   
